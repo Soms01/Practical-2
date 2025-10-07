@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "dotenv": "^17.2.3",
-    "zod": "^4.1.11"
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^20.0.0",
